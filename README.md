@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rory's GitHub stats](https://github-readme-stats-three-zeta-34.vercel.app/api?username=roryfahy)
+![Rory's GitHub stats](https://github-readme-stats-three-zeta-34.vercel.app/api?username=roryfahy&theme=city_lights&show_icon=true)
