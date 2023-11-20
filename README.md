@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 ![Rory's GitHub stats](https://github-readme-stats-three-zeta-34.vercel.app/api?username=roryfahy&theme=city_lights&show_icon=true)
 -->
 
-# Rory Fahy - Versatile Software Engineer
-
-📧 fahyrory@gmail.com | 🖋 [Medium](medium.com/@Rory_Fahy) | 📈 [LinkedIn](linkedin.com/in/rory-fahy)
+# Rory Fahy - AI Engineer
 
 ---
 
