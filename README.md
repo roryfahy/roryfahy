@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ## About Me
-Enthusiastic and adaptable software engineer, well-versed in Elixir and eager to bring my analytical skills and penchant for scalable solutions to Data Engineering and MLOps roles. With a foundation in software development and a proactive approach to learning, I'm ready to tackle complex data challenges and contribute to machine learning operations.
+Enthusiastic and adaptable software engineer, well-versed in Elixir and eager to bring my analytical skills and penchant for scalable solutions to AI Engineering and MLOps roles. With a foundation in software development and a proactive approach to learning, I'm ready to tackle complex data challenges and contribute to machine learning operations.
 
 ## Core Competencies
 - **Software Development:** Elixir, Phoenix, Java, Python, JavaScript
